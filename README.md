@@ -7,6 +7,8 @@ This project and study was created based on a base code from 2018 and the BLS pa
 
 Chen, C. P., & Liu, Z. (2017). Broad learning system: An effective and efficient incremental learning system without the need for deep architecture. IEEE transactions on neural networks and learning systems, 29(1), 10-24.
 
+http://www.fst.umac.mo/en/staff/pchen.html
+
 # Base Code Author
 
 Created on Fri Sep 28 03:18:22 2018
